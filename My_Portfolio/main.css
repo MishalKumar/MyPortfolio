@@ -67,6 +67,12 @@
 }
 
 /*================Third section====================*/
+
+#projects {
+    width: 800px;
+    height: 500px;
+  }
+
 #certificates {
     width: 800px;
     height: 500px;
